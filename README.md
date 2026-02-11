@@ -1,4 +1,4 @@
-# 🏨 Revenue & Operations Analysis (Hospitality) | Power BI
+# Revenue & Operations Analysis | Power BI, SQL
 
 > End-to-end Power BI analytics solution transforming hospitality operational and financial data into actionable business insights.
 
