@@ -124,4 +124,4 @@ This solution enables:
 
 This project demonstrates the ability to translate business requirements into structured analytical solutions using Power BI. It reflects core competencies required for Data Analyst and Business Intelligence roles, including technical execution, analytical thinking, and business-focused reporting. **[View Project Presentation](https://www.linkedin.com/posts/mahima-prasad-analyst_dataanalytics-powerbi-businessintelligence-ugcPost-7426652566270332929-Cern?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSAWf8B55jdc6taMSKXCEilxINUeeX1jcc)**
 
-💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/)** for feedback, collaboration, or opportunities.**Portfolio**: [Mahima Prasad - Portfolio](https://codebasics.io/portfolio/Mahima-Prasad)
+💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/)** for feedback, collaboration, or opportunities. **Portfolio**: [Mahima Prasad - Portfolio](https://codebasics.io/portfolio/Mahima-Prasad)
