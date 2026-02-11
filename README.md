@@ -1,4 +1,4 @@
-# 📊 Hospitality Business Intelligence Dashboard | Power BI
+# 📊 Hospitality Business Analytics | Power BI
 
 > End-to-end Power BI analytics solution transforming hospitality operational and financial data into actionable business insights.
 
@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project presents a comprehensive Power BI dashboard built to analyze and monitor hospitality business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
+This project presents a comprehensive Power BI dashboard built to analyze and monitor AtliQ Grand's business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
 
 The dashboard focuses on occupancy analytics, pricing performance, revenue trends, and profitability measurement.
 
