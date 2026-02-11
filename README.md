@@ -1,47 +1,79 @@
-# Hospitality Analytics 📊
+# 📊 Hospitality Business Intelligence Dashboard | Power BI
 
-## 🎯 Project Summary
-This project is a **Power BI business intelligence solution for the hospitality industry**, focused on analyzing **revenue, occupancy, pricing, and financial performance**.
+> End-to-end Power BI analytics solution transforming hospitality operational and financial data into actionable business insights.
 
-The dashboard integrates data across **operations, finance, and executive reporting**, enabling **data-driven decision-making** through centralized and interactive visualizations.
+---
+
+## 📌 Project Overview
+
+This project presents a comprehensive Power BI dashboard built to analyze and monitor hospitality business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
+
+The dashboard focuses on occupancy analytics, pricing performance, revenue trends, and profitability measurement.
+
+---
 
 🔗 **Live Power BI Dashboard:**  
 [View Report](https://app.powerbi.com/view?r=eyJrIjoiMWViNmZmNjgtN2E0NS00OWFhLWI5MjgtMjkzZDRmMjg3NDk2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=35d1dedb033fbdfba976)
 
 ---
 
-## 🏨 Business Context
-Hospitality businesses operate in a rapidly changing environment where demand patterns, pricing, and occupancy fluctuate frequently.  
-Common challenges include:
-- Monitoring occupancy and revenue trends in real time  
-- Understanding the impact of pricing and seasonality  
-- Aligning operational data with financial outcomes  
+## 🎯 Business Objectives
 
-This dashboard brings these elements together into a **centralized reporting layer**, ensuring consistency and clarity across teams.
+Hospitality businesses need clear answers to critical questions:
+
+- How is occupancy trending over time?
+- Is pricing strategy aligned with demand?
+- What drives Revenue per Available Room (RevPAR)?
+- How do operational metrics impact financial performance?
+
+This project addresses these challenges by building a structured and interactive business intelligence solution.
 
 ---
 
-## 📊 Key Dashboards & KPIs
+## 🛠 Tools & Technologies Used
 
-### Revenue & Occupancy Analytics
-- Occupancy Rate, Revenue, ADR, and RevPAR tracking  
-- Trend analysis across months and seasons  
-- Period-over-period performance comparison  
+- **Microsoft Power BI**
+- **SQL** – Data extraction and validation
+- **Power Query** – Data cleaning and transformation
+- **Data Modeling** – Fact and dimension table design
+- **DAX** – KPI calculations and time intelligence
+- Interactive filters, drill-downs, and executive reporting views
 
-### Financial Performance Analytics
-- Revenue and cost analysis  
-- Profitability trends over time  
-- Financial KPIs relevant to hospitality operations  
+---
 
-### Pricing & Demand Analysis
-- Price vs demand performance analysis  
-- Identification of high- and low-performing periods  
-- Seasonal demand behavior insights  
+## 📊 Key KPIs Tracked
 
-### Executive Dashboard
-- Consolidated KPI view for leadership  
-- High-level business performance monitoring  
-- Faster strategic decision support  
+- Total Revenue
+- Occupancy Rate (%)
+- Average Daily Rate (ADR)
+- Revenue per Available Room (RevPAR)
+- Daily Sellable Room Nights (DSRN)
+- Realization %
+- Profitability trends
+- Period-over-period growth metrics
+
+---
+
+## 📈 Dashboard Capabilities
+
+### 🔹 Revenue & Occupancy Analysis
+- Tracks monthly and seasonal performance trends
+- Monitors occupancy fluctuations
+- Evaluates revenue growth patterns
+
+### 🔹 Pricing & Demand Insights
+- Analyzes ADR performance
+- Examines relationship between demand and revenue
+- Identifies high-demand vs low-demand periods
+
+### 🔹 Financial Performance Monitoring
+- Revenue vs cost tracking
+- Profitability trend analysis
+- Market-level performance comparison
+
+### 🔹 Executive Summary View
+- Consolidated KPI overview
+- High-level performance tracking for leadership teams
 
 ---
 
@@ -58,33 +90,53 @@ This dashboard brings these elements together into a **centralized reporting lay
 
 ---
 
-## ⚙️ Technical Skills & Tools
-- SQL for data extraction, joins, filtering, and transformation  
-- ETL using SQL and Power Query  
-- Data modeling with fact and dimension tables  
-- Star schema design for analytical reporting  
-- DAX measures for KPIs and calculations  
-- Time intelligence (YoY, MoM, YTD)  
-- Report optimization and performance tuning  
+## ⭐ Project Summary
+
+### **Situation**
+The hospitality business generated large volumes of operational and financial data, but decision-makers lacked centralized visibility into occupancy, revenue performance, pricing efficiency, and profitability trends.
+
+### **Task**
+Design an end-to-end Power BI dashboard that consolidates raw hospitality data into a structured business intelligence solution to monitor operational and financial KPIs.
+
+### **Action**
+- Queried and validated raw datasets using SQL  
+- Cleaned and transformed data using Power Query  
+- Built a relational data model with fact and dimension tables  
+- Created DAX measures for Revenue, Occupancy %, ADR, RevPAR, and growth metrics  
+- Designed interactive dashboards with filters, drill-downs, and executive summary views  
+
+### **Result**
+- Enabled structured tracking of operational and financial KPIs  
+- Identified revenue trends and seasonal demand patterns  
+- Improved visibility into pricing effectiveness and occupancy performance  
+- Delivered an executive-ready dashboard supporting data-driven decision-making  
 
 ---
 
-## 💡 Business & Analytical Skills
-- Hospitality KPI analysis and performance reporting  
-- Translating business requirements into BI solutions  
-- Dashboard design with a focus on clarity and usability  
-- Structured analytical and problem-solving approach  
+## 💡 Business Value Delivered
+
+This solution enables:
+
+- Better pricing decisions based on demand patterns  
+- Improved monitoring of occupancy performance  
+- Clear understanding of revenue drivers  
+- Data-backed strategic planning for hospitality management  
 
 ---
 
-## 🛠️ Technology Stack
-- Microsoft Power BI  
-- MySQL  
-- Excel / CSV  
+## 💼 Skills Demonstrated
+
+- Business Intelligence Development  
+- Data Modeling & Relationship Design  
+- Advanced DAX Calculations  
+- KPI Framework Design  
+- Operational & Financial Analytics  
+- Executive Dashboard Reporting  
 
 ---
 
-This project demonstrates my ability to apply data analytics within a hospitality context to generate insights that support operational efficiency and revenue optimization.
-It reflects a practical balance of domain knowledge, technical execution, and analytical storytelling.
+## 🚀 Why This Project Matters
+
+This project demonstrates the ability to translate business requirements into structured analytical solutions using Power BI. It reflects core competencies required for Data Analyst and Business Intelligence roles, including technical execution, analytical thinking, and business-focused reporting. **[View Project Presentation](https://www.linkedin.com/posts/mahima-prasad-analyst_dataanalytics-powerbi-businessintelligence-ugcPost-7426652566270332929-Cern?utm_source=share&utm_medium=member_desktop&rcm=ACoAACSAWf8B55jdc6taMSKXCEilxINUeeX1jcc)**
 
 💬 Connect with me on **[LinkedIn](https://www.linkedin.com/in/mahima-prasad-analyst/)** for feedback, collaboration, or opportunities.
