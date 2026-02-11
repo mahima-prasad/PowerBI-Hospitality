@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-This project presents a comprehensive Power BI dashboard built to analyze and monitor AtliQ Grand's business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
+This project presents a comprehensive Power BI dashboard built to analyze and monitor AtliQ's business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
 
 The dashboard focuses on occupancy analytics, pricing performance, revenue trends, and profitability measurement.
 
@@ -19,7 +19,7 @@ The dashboard focuses on occupancy analytics, pricing performance, revenue trend
 
 ## 🎯 Business Objectives
 
-Hospitality businesses need clear answers to critical questions:
+AtliQ's businesses need clear answers to critical questions:
 
 - How is occupancy trending over time?
 - Is pricing strategy aligned with demand?
@@ -93,7 +93,7 @@ This project addresses these challenges by building a structured and interactive
 ## ⭐ Project Summary
 
 ### **Situation**
-The hospitality business generated large volumes of operational and financial data, but decision-makers lacked centralized visibility into occupancy, revenue performance, pricing efficiency, and profitability trends.
+The AtliQ's hotels generated large volumes of operational and financial data, but decision-makers lacked centralized visibility into occupancy, revenue performance, pricing efficiency, and profitability trends.
 
 ### **Task**
 Design an end-to-end Power BI dashboard that consolidates raw hospitality data into a structured business intelligence solution to monitor operational and financial KPIs.
