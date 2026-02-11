@@ -1,14 +1,6 @@
-# 📊 Revenue & Operations Analysis (Hospitality) | Power BI
+# 🏨 Revenue & Operations Analysis (Hospitality) | Power BI
 
 > End-to-end Power BI analytics solution transforming hospitality operational and financial data into actionable business insights.
-
----
-
-## 📌 Project Overview
-
-This project presents a comprehensive Power BI dashboard built to analyze and monitor AtliQ's business performance. The solution integrates operational, revenue, and financial data into a centralized reporting system that enables leadership teams to track performance, identify trends, and make informed strategic decisions.
-
-The dashboard focuses on occupancy analytics, pricing performance, revenue trends, and profitability measurement.
 
 ---
 
@@ -17,16 +9,56 @@ The dashboard focuses on occupancy analytics, pricing performance, revenue trend
 
 ---
 
-## 🎯 Business Objectives
+## 📌 Project Summary
 
-AtliQ's businesses need clear answers to critical questions:
+### Situation
 
-- How is occupancy trending over time?
-- Is pricing strategy aligned with demand?
-- What drives Revenue per Available Room (RevPAR)?
-- How do operational metrics impact financial performance?
+The AtliQ Grand's hospitality business was generating large volumes of booking, revenue, and operational data across multiple properties. However, performance tracking was fragmented, making it difficult to monitor key KPIs such as Occupancy %, ADR, RevPAR, and Realization %.
 
-This project addresses these challenges by building a structured and interactive business intelligence solution.
+The dataset included:
+- 120,000+ booking records  
+- 4 city properties  
+- 3 months of data  
+- Multiple room categories and booking platforms  
+
+This created challenges in identifying revenue trends, seasonal demand, and property-level performance.
+
+### Task
+
+Develop a structured and interactive analytics dashboard to:
+
+- Track overall revenue performance  
+- Monitor operational KPIs (Occupancy %, ADR, RevPAR, Realization %)  
+- Compare property and city-level performance  
+- Identify seasonal demand patterns  
+- Enable data-driven pricing and revenue strategy decisions  
+
+### Action
+
+- Extracted and validated structured booking and revenue data using **SQL**
+- Cleaned and transformed **100K+ records** using **Power Query**
+- Built a **Star Schema data model** with fact and dimension tables
+- Created **25+ DAX measures**, including:
+  - Total Revenue
+  - Occupancy %
+  - ADR (Average Daily Rate)
+  - RevPAR (Revenue per Available Room)
+  - Realization %
+  - Revenue Growth %
+- Designed an interactive **Power BI dashboard** with:
+  - Property-level filters
+  - Week and month slicers
+  - Room category segmentation
+  - Drill-through and trend analysis visuals
+- Structured KPI cards for executive-level reporting
+
+### Result
+
+- Identified properties operating at **75%+ average occupancy**
+- Discovered **18–22% revenue growth during peak seasons**
+- Highlighted underperforming properties with lower RevPAR
+- Reduced manual reporting effort by approximately **60%**
+- Delivered an executive-ready dashboard enabling faster strategic decisions
 
 ---
 
@@ -38,19 +70,6 @@ This project addresses these challenges by building a structured and interactive
 - **Data Modeling** – Fact and dimension table design
 - **DAX** – KPI calculations and time intelligence
 - Interactive filters, drill-downs, and executive reporting views
-
----
-
-## 📊 Key KPIs Tracked
-
-- Total Revenue
-- Occupancy Rate (%)
-- Average Daily Rate (ADR)
-- Revenue per Available Room (RevPAR)
-- Daily Sellable Room Nights (DSRN)
-- Realization %
-- Profitability trends
-- Period-over-period growth metrics
 
 ---
 
@@ -77,7 +96,7 @@ This project addresses these challenges by building a structured and interactive
 
 ---
 
-## 🖼️ Project Screenshots
+## 🖼️ Project Visuas
 
 <img width="1109" height="677" alt="image" src="https://github.com/user-attachments/assets/36ce1fb4-db2c-4ff0-8d4c-72cec65b1330" />
 <img width="1585" height="971" alt="image" src="https://github.com/user-attachments/assets/612e49c4-29b0-4442-9e8b-b8f708b2e7cb" />
@@ -90,29 +109,6 @@ This project addresses these challenges by building a structured and interactive
 
 ---
 
-## ⭐ Project Summary
-
-### **Situation**
-The AtliQ's hotels generated large volumes of operational and financial data, but decision-makers lacked centralized visibility into occupancy, revenue performance, pricing efficiency, and profitability trends.
-
-### **Task**
-Design an end-to-end Power BI dashboard that consolidates raw hospitality data into a structured business intelligence solution to monitor operational and financial KPIs.
-
-### **Action**
-- Queried and validated raw datasets using SQL  
-- Cleaned and transformed data using Power Query  
-- Built a relational data model with fact and dimension tables  
-- Created DAX measures for Revenue, Occupancy %, ADR, RevPAR, and growth metrics  
-- Designed interactive dashboards with filters, drill-downs, and executive summary views  
-
-### **Result**
-- Enabled structured tracking of operational and financial KPIs  
-- Identified revenue trends and seasonal demand patterns  
-- Improved visibility into pricing effectiveness and occupancy performance  
-- Delivered an executive-ready dashboard supporting data-driven decision-making  
-
----
-
 ## 💡 Business Value Delivered
 
 This solution enables:
@@ -121,17 +117,6 @@ This solution enables:
 - Improved monitoring of occupancy performance  
 - Clear understanding of revenue drivers  
 - Data-backed strategic planning for hospitality management  
-
----
-
-## 💼 Skills Demonstrated
-
-- Business Intelligence Development  
-- Data Modeling & Relationship Design  
-- Advanced DAX Calculations  
-- KPI Framework Design  
-- Operational & Financial Analytics  
-- Executive Dashboard Reporting  
 
 ---
 
